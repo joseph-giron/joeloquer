@@ -1,0 +1,13 @@
+G:\downloads\minimum\JoeLoq\JoeLoq\bin\Debug\JoeLoq.exe.config
+G:\downloads\minimum\JoeLoq\JoeLoq\bin\Debug\JoeLoq.exe
+G:\downloads\minimum\JoeLoq\JoeLoq\bin\Debug\JoeLoq.pdb
+G:\downloads\minimum\JoeLoq\JoeLoq\obj\Debug\JoeLoq.csprojResolveAssemblyReference.cache
+G:\downloads\minimum\JoeLoq\JoeLoq\obj\Debug\JoeLoq.Properties.Resources.resources
+G:\downloads\minimum\JoeLoq\JoeLoq\obj\Debug\JoeLoq.csproj.GenerateResource.Cache
+G:\downloads\minimum\JoeLoq\JoeLoq\obj\Debug\JoeLoq.exe
+G:\downloads\minimum\JoeLoq\JoeLoq\obj\Debug\JoeLoq.pdb
+G:\downloads\minimum\JoeLoq\JoeLoq\obj\Debug\JoeLoq.FrmMain.resources
+G:\downloads\Weekend project\JoeLoqer\JoeLoq\JoeLoq\bin\Debug\JoeLoq.exe.config
+G:\downloads\Weekend project\JoeLoqer\JoeLoq\JoeLoq\obj\Debug\JoeLoq.exe
+G:\Weekend project\JoeLoqer\JoeLoq\JoeLoq\bin\Debug\JoeLoq.exe.config
+G:\Weekend project\JoeLoqer\JoeLoq\JoeLoq\obj\Debug\JoeLoq.exe

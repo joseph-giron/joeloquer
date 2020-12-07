@@ -1,0 +1,10 @@
+A:\C Projects\Visual Studio\Projects\__joel\JoeLoq\JoeLoq\bin\Debug\JoeLoquer.exe.config
+A:\C Projects\Visual Studio\Projects\__joel\JoeLoq\JoeLoq\bin\Debug\JoeLoquer.exe
+A:\C Projects\Visual Studio\Projects\__joel\JoeLoq\JoeLoq\bin\Debug\JoeLoquer.pdb
+A:\C Projects\Visual Studio\Projects\__joel\JoeLoq\JoeLoq\obj\Debug\JoeLoquer.csprojAssemblyReference.cache
+A:\C Projects\Visual Studio\Projects\__joel\JoeLoq\JoeLoq\obj\Debug\JoeLoq.FrmMain.resources
+A:\C Projects\Visual Studio\Projects\__joel\JoeLoq\JoeLoq\obj\Debug\JoeLoquer.Properties.Resources.resources
+A:\C Projects\Visual Studio\Projects\__joel\JoeLoq\JoeLoq\obj\Debug\JoeLoquer.csproj.GenerateResource.cache
+A:\C Projects\Visual Studio\Projects\__joel\JoeLoq\JoeLoq\obj\Debug\JoeLoquer.csproj.CoreCompileInputs.cache
+A:\C Projects\Visual Studio\Projects\__joel\JoeLoq\JoeLoq\obj\Debug\JoeLoquer.exe
+A:\C Projects\Visual Studio\Projects\__joel\JoeLoq\JoeLoq\obj\Debug\JoeLoquer.pdb
